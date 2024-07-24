@@ -214,4 +214,3 @@ document.getElementById("btnDeletar").addEventListener("click", function () {
 ```
 - Adiciona ouvintes de eventos aos botões para chamar as funções apropriadas quando clicados.
 
-Para mais informações, visite [GPT Online](https://chatgptonline.tech/pt/) e confira nossos produtos, como o [Idéias para tatuagem GPT](https://chatgpt.com/g/g-t11nuTlg3-tattoo-ideas-gpt).
